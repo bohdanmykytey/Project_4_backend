@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  rated_r: false
+  budget: 1
+  homepage: MyString
+  original_title: MyString
+  overview: MyString
+  popularity: MyString
+  poster_bath: MyString
+  backdrop_path: MyString
+
+two:
+  rated_r: false
+  budget: 1
+  homepage: MyString
+  original_title: MyString
+  overview: MyString
+  popularity: MyString
+  poster_bath: MyString
+  backdrop_path: MyString
